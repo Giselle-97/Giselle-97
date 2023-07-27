@@ -47,9 +47,11 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"></a>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
     <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a>
-
   <a href="https://expressjs.com/">
   <img src="https://github.com/Giselle-97/Giselle-Castro/assets/131615505/5d3cdcdb-b83c-4547-ae91-b98cadeec972"  alt="express-js" width="50" height="40" />
+  </a>
+  <a href="https://www.npmjs.com/">
+  <img src="https://github.com/Giselle-97/Giselle-97/assets/131615505/df3de3a1-8449-44c5-a316-b544e068b7f1"  alt="npm" width="50" height="40" />
   </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
@@ -57,7 +59,6 @@
   <a href="https://zeplin.io/" target="_blank">
   <img src="https://github.com/Giselle-97/Giselle-Castro/assets/131615505/07829f22-7c44-4c75-b5c9-e5d40331d511"  alt="zeplin" width="40" height="40" />
   </a>
-
 <a href="https://slack.com/intl/es-es/">
   <img src="https://github.com/Giselle-97/Giselle-Castro/assets/131615505/af837c29-eaad-47d3-9931-a865adc0ca51"  alt="slack" width="40" height="40" />
   </a>
