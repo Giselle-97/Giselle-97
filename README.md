@@ -1,7 +1,9 @@
 <h1 align="center">¡Hola 👋! Soy Giselle Castro👩🏻‍💻</h1>
 <p align="center">
-<img src="https://github.com/Giselle-97/Giselle-Castro/assets/131615505/402a15a8-3df2-4b50-8715-6f60a704970b" alt="img Giselle" width="450" height="300"/>
+<img src="https://github.com/Giselle-97/Giselle-97/assets/131615505/d62de86c-1d45-41e5-9be6-f4128d0769f5" alt="img Giselle" width="450" height="300"/>
 </p>
+
+
 <h3 align="center">"Desarrollador Junior Full Stack en busca de retos emocionantes. ¡Echa un vistazo a mi perfil y únete a mi viaje en el mundo del desarrollo web!"</h3>  
 
 
@@ -48,7 +50,7 @@
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
     <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a>
   <a href="https://expressjs.com/">
-  <img src="https://github.com/Giselle-97/Giselle-Castro/assets/131615505/5d3cdcdb-b83c-4547-ae91-b98cadeec972"  alt="express-js" width="50" height="40" />
+  <img src="https://github.com/Giselle-97/Giselle-97/assets/131615505/ebb0a3f4-91fb-48e3-b8e4-f3736a0958ca"  alt="express-js" width="50" height="40" />
   </a>
   <a href="https://www.npmjs.com/">
   <img src="https://github.com/Giselle-97/Giselle-97/assets/131615505/df3de3a1-8449-44c5-a316-b544e068b7f1"  alt="npm" width="50" height="40" />
@@ -57,9 +59,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
 </a>
   <a href="https://zeplin.io/" target="_blank">
-  <img src="https://github.com/Giselle-97/Giselle-Castro/assets/131615505/07829f22-7c44-4c75-b5c9-e5d40331d511"  alt="zeplin" width="40" height="40" />
+  <img src="https://github.com/Giselle-97/Giselle-97/assets/131615505/bd7c792f-cd7f-4244-9cf2-deca05a48df3"  alt="zeplin" width="40" height="40" />
   </a>
 <a href="https://slack.com/intl/es-es/">
-  <img src="https://github.com/Giselle-97/Giselle-Castro/assets/131615505/af837c29-eaad-47d3-9931-a865adc0ca51"  alt="slack" width="40" height="40" />
+  <img src="https://github.com/Giselle-97/Giselle-97/assets/131615505/4d831273-aa7d-42d9-a7c3-e4a4fde3c9bf"  alt="slack" width="40" height="40" />
   </a>
 </p>
