@@ -55,9 +55,7 @@
   <a href="https://www.npmjs.com/">
   <img src="https://github.com/Giselle-97/Giselle-97/assets/131615505/df3de3a1-8449-44c5-a316-b544e068b7f1"  alt="npm" width="50" height="40" />
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </a>
   <a href="https://zeplin.io/" target="_blank">
   <img src="https://github.com/Giselle-97/Giselle-97/assets/131615505/bd7c792f-cd7f-4244-9cf2-deca05a48df3"  alt="zeplin" width="40" height="40" />
