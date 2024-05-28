@@ -18,7 +18,7 @@
 
 ---------
 
-<p>Soy una apasionada programadora junior full stack formada en Adalab. Mi personalidad extrovertida y positiva me impulsa a disfrutar del trabajo en equipo y a comunicarme de manera efectiva. Siempre en busca de aprender y crecer en el mundo del desarrollo web. ¡Bienvenido(a) a mi repositorio, donde compartiré mis proyectos y avances en esta emocionante travesía tecnológica!"</p>
+<p>Apasionada por la tecnología, me destaco por ser extrovertida, positiva y perfeccionista. Dentro del vasto mundo tecnológico, mi mayor pasión reside en la programación y el diseño. Estoy siempre en busca de nuevos conocimientos y oportunidades para crecer profesionalmente en el ámbito del desarrollo web. ¡Bienvenido(a) a mi repositorio, donde compartiré mis proyectos y avances en esta emocionante travesía tecnológica!"</p>
   
 ---------
   
